@@ -1,0 +1,36 @@
+Michael
+[v] understand / run the code from paper (omniglot)
+[v] try to understand creation / loading of episodes
+[v] add weight decay in half after each 20 epochs (use StepLR Scheduler, step_size=20, gamma=0.5)
+[v] implement validation loop
+[v] implement model saving
+[v] add early stopping with patience 100
+[v] add test flow
+[v] refactor loss function
+[v] run training with 14 ways with alpha
+[v] add resudually connected network
+[v] add Mahalanobis distance
+[v] add temperatured distance
+[v] add seed to eval
+[v] add dropout to ResNet
+[v] add dropout to ProtoNetSimple
+[ ] add training from existing model
+[v] add plots - create script - accuracies per epoch / losses per epoch
+[ ] add ResNet12 from papers
+[ ] start writing the report
+
+
+
+ 
+
+Nawras
+[-] download omniglot
+[-] download mini-image-net
+[v] read the paper
+[v] read / understand / run the code from paper (omniglot)
+[-] try to understand creation / loading of episodes
+[ ] try to run code in collab
+[ ] implement residual network and run training with it
+
+
+

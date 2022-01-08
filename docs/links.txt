@@ -1,0 +1,30 @@
+https://github.com/renmengye/few-shot-ssl-public/ 
+
+https://analyticsindiamag.com/guide-to-torchmeta-a-meta-learning-library-for-pytorch/
+
+https://paperswithcode.com/dataset/miniimagenet-1
+
+Res net in pytorch
+https://towardsdatascience.com/residual-network-implementing-resnet-a7da63c7b278
+
+Mahalanobis distance
+https://www.machinelearningplus.com/statistics/mahalanobis-distance/
+
+Metric learning
+https://github.com/KevinMusgrave/pytorch-metric-learning
+https://pythonrepo.com/repo/KevinMusgrave-pytorch-metric-learning-python-pytorch-utilities
+
+
+
+Useful:
+https://zablo.net/blog/post/pytorch-13-features-you-should-know/
+
+
+https://www.borealisai.com/en/blog/tutorial-2-few-shot-learning-and-meta-learning-i/
+
+
+Meta-Learning with Differentiable Convex Optimization
+https://github.com/kjunelee/MetaOptNet/tree/7a8e2ae25ef47cfe75a6fe8bc7920dc9fd29191f
+
+An Overview of ResNet and its Variants
+https://towardsdatascience.com/an-overview-of-resnet-and-its-variants-5281e2f56035

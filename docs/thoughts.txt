@@ -1,0 +1,25 @@
+Mahalanobis distance:
+	is too hard to calculate on vectors of length 1600
+	adding FC layers after CNN reduces the dimention, but network stops learning
+	
+Euclidian distance:
+	adding FC layers after CNN, then network stops learning
+	
+Tweaks:
+	learning rate 0.002 performs better than 0.001
+	alpha parameter slightly improves accuracy (?)
+	14-way performs better than 10-way  
+	16-way performs better than 14-way
+	128 filters better than 64 filters
+	
+	
+ResNet:
+	used ProtoNetResidual based on resnet18 from "Deep Residual Learning for Image Recognition" https://arxiv.org/abs/1512.03385
+	it learns faster then regular CNN ProtoNetSimple, but each iteration takes more time due to slightly increased number of parameters
+	total accuracy is not so good (60% vs 65+%)
+	
+	used ProtoNetRes12 based on resnet12 got approx 63% with less number of filters from paper (TBD)
+	
+	
+ResNetSimple: (dense CNN)
+Overfits heavily
